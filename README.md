@@ -1,3 +1,5 @@
+> **This app has moved.** RulZ Image Tournament is now part of [RulZ AI Tools Suite](https://github.com/speedyrulz/RulZ-AI-Tools-Suite): its source is in [apps/RulZ-Image-Tournament](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/tree/main/apps/RulZ-Image-Tournament), its downloads are on the [Releases page](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/releases) and its guide is in the [wiki](https://github.com/speedyrulz/RulZ-AI-Tools-Suite/wiki/Image-Tournament). This repository is archived and no longer updated.
+
 # RulZ Image Tournament
 
 A Windows app that finds your favorite image by single-elimination tournament. It shows two images at a time. You keep one, and the other is moved to a Losers folder (or recycled, deleted, or left alone). This repeats until one champion is left.
